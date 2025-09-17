@@ -7,11 +7,8 @@ Autenticación en el Cliente: La información de los usuarios se guarda y se ges
 ## Validaciones Integradas:
 
 RUN Chileno: Valida el formato de RUN (sin puntos ni guión).
-
 Correo Electrónico: Restringe los correos a dominios específicos (@duoc.cl, @profesor.duoc.cl o @gmail.com).
-
 Contraseña: Exige una longitud mínima y máxima.
-
 Navegación: La página de autenticación incluye un enlace directo para regresar a la página principal del sitio web.
 
 ## Tecnologías Utilizadas
