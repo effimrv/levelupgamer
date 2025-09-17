@@ -1,4 +1,4 @@
-### Level Up Gamer: Sistema de Autenticación
+# Level Up Gamer: Sistema de Autenticación
 Este proyecto implementa un sistema básico de registro e inicio de sesión para una tienda en línea, utilizando tecnologías web estándar: HTML, CSS y JavaScript.
 
 ##Características
